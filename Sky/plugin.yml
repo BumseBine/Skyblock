@@ -1,0 +1,18 @@
+name: XenonCraft-Skyblocksystem
+version: 0.0.3
+author: BumseBine
+main: de.xenoncraft.bumsebine.main.Main
+
+commands:
+   skyblock: 
+      description: Please use skyblock help!
+   spawn:
+      description: Teleports you to the Spawn!
+   lobby:
+      description: Teleports you to the Lobby!
+   hub:
+      description: Teleports you to the Hub!
+   trash:
+      description: Opens the trashcan!
+   clanskyblock: 
+      description: Please use clanskyblock help!
